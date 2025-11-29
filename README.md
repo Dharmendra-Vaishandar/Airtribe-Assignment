@@ -3,7 +3,8 @@
 This project is a beginner-to-intermediate Java Student Management System demonstrating:
 - Core OOP principles (inheritance, polymorphism, encapsulation)
 - Service-oriented structure
-- Design patterns (Singleton, Factory, Observer).
+- Design patterns i followed.
+- SOLID Principle followed
 
 ## What is included
 - `src/main/java/com/airtribe/studentmanagement/` - application code
